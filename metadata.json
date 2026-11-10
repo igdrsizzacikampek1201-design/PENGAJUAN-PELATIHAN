@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Pengajuan Pelatihan SDM Perawat IGD - RS Izza Cikampek",
+  "description": "Portal terpadu pengajuan, verifikasi berjenjang, kepatuhan sertifikasi, dan analisis kebutuhan pelatihan (TNA) perawat Instalasi Gawat Darurat RS Izza Cikampek.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
